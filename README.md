@@ -1,7 +1,7 @@
 # About
 👋 Hi, I’m @ytcreap
 
-I'm a starting developer in Computer Science class (3rd year)
+I'm a starting developer in Computer Science class in Univeristy (3rd year)
 ## My languages
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
